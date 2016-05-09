@@ -1,7 +1,7 @@
 <?php
 /**
  * En este archivo se declara la clase "IOS".
- * @link    https://git.irontec.com/internet/pushnotifications
+ * @link    https://github.com/irontec/push-notifications
  * @author  ddniel16 <dani@irontec.com>
  * @license https://opensource.org/licenses/EUPL-1.1 European Union Public Licence (V. 1.1)
  * @package PushNotifications\IOS

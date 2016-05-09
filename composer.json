@@ -1,6 +1,6 @@
 {
   "name" : "irontec/push-notifications",
-  "version" : "v0.0.1",
+  "description": "Libreria para gestionar facilmente las notificaciónes push con Android e IOS.",
   "require" : {
     "duccio/apns-php" : "v1.0.1",
     "rmccue/requests" : "v1.6.1"

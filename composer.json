@@ -1,0 +1,21 @@
+{
+  "name" : "irontec/push-notifications",
+  "require" : {
+    "duccio/apns-php" : "v1.0.1",
+    "rmccue/requests" : "v1.6.1"
+  },
+  "license" : "EUPL",
+  "keywords" : [ "php", "push", "android", "ios"],
+  "autoload" : {
+    "psr-4" : {
+      "PushNotifications\\" : "src/"
+    }
+  },
+  "type" : "library",
+  "homepage" : "https://github.com/irontec/push-notifications",
+  "authors" : [ {
+    "name" : "Daniel Rendon Arias",
+    "email" : "daniel@irontec.com",
+    "homepage" : "https://github.com/ddniel16"
+  } ]
+}

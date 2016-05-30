@@ -5,7 +5,7 @@
     "duccio/apns-php" : "v1.0.1",
     "rmccue/requests" : "v1.6.1"
   },
-  "license" : "EUPL",
+  "license" : "EUPL-1.1",
   "keywords" : [ "php", "push", "android", "ios" ],
   "autoload" : {
     "psr-4" : {
